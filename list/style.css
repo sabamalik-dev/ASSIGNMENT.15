@@ -1,0 +1,93 @@
+.grate{
+    position: relative;
+    left: 60px;
+    bottom: 210px;
+}
+.good{
+    position: relative;
+    right: 190px;
+    bottom: 210px;
+}
+.Main{
+    background-color:black;
+    padding: 0px;
+    margin: 10px auto;
+}
+.text{
+    position: relative;
+    left: 90px;
+    
+    
+}
+.items{
+    position: relative;
+    left: 650px;
+    top: 150px;
+}
+.item{
+    position: relative;
+    bottom: 400px;
+}
+.white{
+    position: relative;
+    bottom: 350px;
+}
+ul{
+    font-size: 16px;
+    
+}
+.black{
+    position: relative;
+    bottom: 200px;
+}
+.form{
+    justify-items: center;
+    padding: 20px;
+    margin: 20px;
+}
+.class{
+    border: 0px solid;
+    border-radius: 20px;
+}
+.para{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    left: 150px;
+    bottom: 30px;
+}
+.button{
+
+    position: relative;
+    left: 550px;
+    bottom: 250px;
+    font-size: 25px;
+}
+.foo{
+    position: relative;
+    bottom: 320px;
+}
+.spicy{
+    position: relative;
+    bottom: 150px;
+}
+.chessy{
+    position: relative;
+    bottom: 330px;
+}
+.grill{
+    position: relative;
+    left: 70px;
+    bottom: 370px;
+}
+.burger{
+    position: relative;
+    right: 150px;
+    bottom: 380px;
+}
+
+.dot{
+    border: 1px solid;
+    border-radius: 50px;
+}
